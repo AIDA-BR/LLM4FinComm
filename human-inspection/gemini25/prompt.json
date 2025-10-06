@@ -1,0 +1,3 @@
+{
+  "prompt_template": "Você deverá avaliar o seguinte texto com base em um critério especificado, considerando também o documento original que serviu de base para sua geração. Atribua uma nota de 1 a 5, conforme a definição do critério, e justifique sua avaliação com uma explicação das motivações por trás da sua nota.\n\nCritério:\n{criteria}\n\nTexto base:\n{source_text}\n\nTexto a ser avaliado:\n{generation}"
+}

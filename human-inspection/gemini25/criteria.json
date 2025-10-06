@@ -1,0 +1,24 @@
+{
+  "criteria": [
+    {
+      "name": "Inteligibilidade",
+      "description": "O texto é difícil de compreender por conter problemas graves de estrutura linguística ou organização das ideias? Textos indeligíveis apresentam frases malformadas, vocabulário inadequado, erros gramaticais que comprometem a leitura ou uma sequência de ideias desconexa a ponto de inviabilizar a compreensão global do conteúdo."
+    },
+    {
+      "name": "Factualidade",
+      "description": "As informações apresentadas no texto correspondem a fatos verificáveis e estão alinhadas com a realidade? Um texto com afirmações incorretas, distorcidas ou sem respaldo em dados concretos possui baixa factualidade. Erros factuais, exageros ou invenções comprometem a confiabilidade da geração."
+    },
+    {
+      "name": "Aderência",
+      "description": "O conteúdo do texto está focado nos elementos centrais do fato relevante fornecido? Textos com alta aderência retomam e desenvolvem diretamente os eventos, ações ou implicações descritas no documento base. Já textos que desviam totalmente o foco para informações tangenciais ou genéricas — como histórico da empresa ou contexto de mercado — sem tratar os pontos principais do fato relevante, apresentam baixa aderência."
+    },
+    {
+      "name": "Novidade",
+      "description": "O texto apresenta informações novas, relevantes e complementares ao fato relevante, sem comprometer a aderência ao tema central? Gerações com alta novidade expandem o conteúdo original com análises, implicações ou dados adicionais plausíveis e informativos. Por outro lado, textos que apenas repetem o conteúdo do fato relevante ou acrescentam informações irrelevantes ou inventadas apresentam baixa novidade."
+    },
+    {
+      "name": "Utilidade",
+      "description": "O texto contribui de forma concreta para o entendimento da situação ou para a tomada de decisão? Um conteúdo útil oferece informações específicas, análises relevantes e implicações claras para o leitor — especialmente no contexto de investidores, gestores ou partes interessadas. Textos com baixa utilidade tendem a ser vagos, redundantes ou apresentar observações óbvias que não agregam valor real à compreensão do fato relevante."
+    }
+  ]
+}
