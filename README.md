@@ -1,5 +1,5 @@
 <h1 align="center">
-    Language Models for Automated Market Commentary from Corporate Disclosures
+    Language Models for Automated Market <br> Commentary from Corporate Disclosures
 </h1>
 
 <p align="justify">
