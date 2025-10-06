@@ -1,0 +1,3 @@
+{
+  "prompt_template": "### Instruction\nWrite in Portuguese a report about the Company considering the Material Fact and follow the specified Format. The report must contain **all** elements listed below.\n\n### Format\n<Title>\n<Sentence Summarizing the Report>\n<Body of the Report>\n<Final Considerations>\n\n### Company\n{company}\n\n### Material Fact\n{mf}\n\n### Answer"
+}

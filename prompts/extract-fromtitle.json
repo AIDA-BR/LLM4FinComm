@@ -1,0 +1,3 @@
+{
+  "prompt_template": "### Instructions\nYou will receive the title of an article. You must extract the name of the company present in the title and the company's code, when available. If it is not present in the title, respond with NA.\n\n### Example 1\nTitle: Disney (DISB34) | Company announces strategic acquisitions\nAnswer:\n(Disney, DISB34)\n\n### Example 2\nTitle: Disney | Company announces strategic acquisitions\nAnswer:\n(Disney, NA)\n\n### Output Format\n(company, code)\nAnswer only with (company, code).\n\n### Title\n{title}"
+}
