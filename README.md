@@ -5,22 +5,36 @@
 <p align="justify">
 This repository contains the code, the <b>LLM4FinComm</b> dataset, and additional resources associated with the paper 
 <b><i>Language Models for Automated Market Commentary from Corporate Disclosures</i></b>, 
-accepted for publication at <a href="https://doi.org/10.1145/3768292.3770438">The 6th ACM International Conference on AI in Finance (ICAIF ’25)</a>.
+accepted for publication at <a href="https://dl.acm.org/doi/10.1145/3768292.3770438>The 6th ACM International Conference on AI in Finance (ICAIF ’25)</a>.
 </p>
 
 ---
 
 <h2 align="left"> CITING </h2>
 
-> To release
+> Gabriel Assis, Hugo Dutra, Daniela Vianna, Wagner Meira Júnior, Altigran Soares da Silva, and Aline Paes. 2025. Language Models for Automated Market Commentary from Corporate Disclosures. In Proceedings of the 6th ACM International Conference on AI in Finance (ICAIF '25). Association for Computing Machinery, New York, NY, USA, 727–735. https://doi.org/10.1145/3768292.3770438
 
 </br>
 
 <h2 align="left"> BIBTEX </h2>
 
 ``` 
-@inproceedings{
+@inproceedings{LLMsForCommentaries-ICAIF25,
+    author = {Assis, Gabriel and Dutra, Hugo and Vianna, Daniela and Meira, Wagner, J\'{u}nior and da Silva, Altigran Soares and Paes, Aline},
+    title = {Language Models for Automated Market Commentary from Corporate Disclosures},
+    year = {2025},
+    isbn = {9798400722202},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3768292.3770438},
+    doi = {10.1145/3768292.3770438},
+    pages = {727–735},
+    numpages = {9},
+    keywords = {Large Language Models, Natural Language Evaluation, Financial Commentary Generation},
+    location = {Singapore, Singapore},
+    series = {ICAIF '25}
 }
+  
 ```
 
 
