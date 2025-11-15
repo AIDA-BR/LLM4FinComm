@@ -5,7 +5,7 @@
 <p align="justify">
 This repository contains the code, the <b>LLM4FinComm</b> dataset, and additional resources associated with the paper 
 <b><i>Language Models for Automated Market Commentary from Corporate Disclosures</i></b>, 
-accepted for publication at <a href="https://dl.acm.org/doi/10.1145/3768292.3770438>The 6th ACM International Conference on AI in Finance (ICAIF ’25)</a>.
+accepted for publication at <a href="https://dl.acm.org/doi/10.1145/3768292.3770438">The 6th ACM International Conference on AI in Finance (ICAIF ’25)</a>.
 </p>
 
 ---
